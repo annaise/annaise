@@ -1,5 +1,5 @@
-### Hi there 👋
-Here are some ideas to get you started:
+### Hi there 👋 [![](https://visitcount.itsvg.in/api?id=annaise&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 - 🔭 I’m currently working on **Machine Learning Projects**
 - 🌱 I’m currently learning **Model Predictions**
@@ -10,6 +10,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns:**She/Her**
 - ⚡ Fun fact: **I run Youtube Channel**
 
+## About Me
+As I delved into the world of IT infrastructure monitoring, I found myself intrigued by the data generated through various systems and processes. Witnessing the power of visualization in translating complex datasets into meaningful patterns sparked a curiosity that led me to explore the field of data science.
 
 
 ## 🌐 Socials:
@@ -27,6 +29,6 @@ Here are some ideas to get you started:
 ![](https://github-contributor-stats.vercel.app/api?username=annaise&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=annaise&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
